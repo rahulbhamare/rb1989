@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CustomLabel"
+             xmlns:control="clr-namespace:CustomLabel.Control"
+             x:Class="CustomLabel.MainPage">
+    <StackLayout>        
+        <control:CustomLabelControl Text="Welcome to Xamarin Forms! This is CustomLabel renderer demo where user can specify line number using 'Lines' property to dispaly label contents." Lines="2" LineBreakMode="TailTruncation" />
+    </StackLayout>
+</ContentPage>

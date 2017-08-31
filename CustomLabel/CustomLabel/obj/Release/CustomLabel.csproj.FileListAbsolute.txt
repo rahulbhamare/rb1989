@@ -1,0 +1,15 @@
+C:\Users\RAMAKRISHNA\source\repos\CustomLabel\CustomLabel\CustomLabel\bin\Release\CustomLabel.dll
+C:\Users\RAMAKRISHNA\source\repos\CustomLabel\CustomLabel\CustomLabel\bin\Release\CustomLabel.pdb
+C:\Users\RAMAKRISHNA\source\repos\CustomLabel\CustomLabel\CustomLabel\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\RAMAKRISHNA\source\repos\CustomLabel\CustomLabel\CustomLabel\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\RAMAKRISHNA\source\repos\CustomLabel\CustomLabel\CustomLabel\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\RAMAKRISHNA\source\repos\CustomLabel\CustomLabel\CustomLabel\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\RAMAKRISHNA\source\repos\CustomLabel\CustomLabel\CustomLabel\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\RAMAKRISHNA\source\repos\CustomLabel\CustomLabel\CustomLabel\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Users\RAMAKRISHNA\source\repos\CustomLabel\CustomLabel\CustomLabel\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\RAMAKRISHNA\source\repos\CustomLabel\CustomLabel\CustomLabel\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\RAMAKRISHNA\source\repos\CustomLabel\CustomLabel\CustomLabel\obj\Release\CustomLabel.csproj.CoreCompileInputs.cache
+C:\Users\RAMAKRISHNA\source\repos\CustomLabel\CustomLabel\CustomLabel\obj\Release\CustomLabel.MainPage.xaml.g.cs
+C:\Users\RAMAKRISHNA\source\repos\CustomLabel\CustomLabel\CustomLabel\obj\Release\CustomLabel.App.xaml.g.cs
+C:\Users\RAMAKRISHNA\source\repos\CustomLabel\CustomLabel\CustomLabel\obj\Release\CustomLabel.dll
+C:\Users\RAMAKRISHNA\source\repos\CustomLabel\CustomLabel\CustomLabel\obj\Release\CustomLabel.pdb

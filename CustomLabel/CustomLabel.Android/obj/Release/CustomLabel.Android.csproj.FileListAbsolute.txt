@@ -1,0 +1,2 @@
+C:\Users\RAMAKRISHNA\source\repos\CustomLabel\CustomLabel\CustomLabel.Android\obj\Release\CustomLabel.Android.csprojResolveAssemblyReference.cache
+C:\Users\RAMAKRISHNA\source\repos\CustomLabel\CustomLabel\CustomLabel.Android\obj\Release\CustomLabel.Android.csproj.CoreCompileInputs.cache
